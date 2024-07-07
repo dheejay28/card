@@ -1,6 +1,4 @@
-int main(int argc, char *argv[])
-{
-	body {
+body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,6 +74,4 @@ int main(int argc, char *argv[])
 
 .details p {
     margin: 5px 0;
-}
-
 }
